@@ -38,7 +38,7 @@ you should get the message:
 Running your own report
 -----------------------
 
-Navigate to [http://192.168.33.10:8888] on your browser and you should see the IPython Notebook
+Navigate to http://192.168.33.10:8888 on your browser and you should see the IPython Notebook
 front page with one notebook already there. The simplest way to run your own report is to go
 to that notebook and change the ORCID. Then click the "play" button, just below the Kernel 
 menu. If the numbers look a little low you may need to run it a few times. The Open Article
