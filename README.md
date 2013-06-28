@@ -12,9 +12,9 @@ Setting Up
 ----------
 
 To set this up on you local machine you will need to download two packages, both of which I found
-very easy to install. The first is [VirtualBox][https://www.virtualbox.org/wiki/Downloads] which
+very easy to install. The first is [VirtualBox](https://www.virtualbox.org/wiki/Downloads) which
 is what will actually run your VM. Simply download the package and follow the instructions as is
-usual. The second package you require is [Vagrant][http://downloads.vagrantup.com/] which again is very
+usual. The second package you require is [Vagrant](http://downloads.vagrantup.com/) which again is very
 straightforward to download and setup in my experience. 
 
 Once you have the two packages you can clone, fork, or simply download this repository to your 
